@@ -1,9 +1,0 @@
-F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI.SeleniumTesting\bin\Debug\Icenet.Service.Logging.UI.SeleniumTesting.dll
-F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI.SeleniumTesting\bin\Debug\Icenet.Service.Logging.UI.SeleniumTesting.pdb
-F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI.SeleniumTesting\bin\Debug\nunit.framework.dll
-F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI.SeleniumTesting\bin\Debug\WebDriver.dll
-F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI.SeleniumTesting\bin\Debug\nunit.framework.xml
-F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI.SeleniumTesting\bin\Debug\WebDriver.xml
-F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI.SeleniumTesting\obj\Debug\Icenet.Service.Logging.UI.SeleniumTesting.csprojResolveAssemblyReference.cache
-F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI.SeleniumTesting\obj\Debug\Icenet.Service.Logging.UI.SeleniumTesting.dll
-F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI.SeleniumTesting\obj\Debug\Icenet.Service.Logging.UI.SeleniumTesting.pdb
