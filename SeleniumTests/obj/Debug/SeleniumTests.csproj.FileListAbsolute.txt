@@ -1,0 +1,10 @@
+F:\svn\Practice3\Icenet.Service.Logging.UI\SeleniumTests\bin\Debug\SeleniumTests.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\SeleniumTests\bin\Debug\SeleniumTests.pdb
+F:\svn\Practice3\Icenet.Service.Logging.UI\SeleniumTests\bin\Debug\nunit.framework.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\SeleniumTests\bin\Debug\WebDriver.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\SeleniumTests\bin\Debug\nunit.framework.pdb
+F:\svn\Practice3\Icenet.Service.Logging.UI\SeleniumTests\bin\Debug\nunit.framework.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\SeleniumTests\bin\Debug\WebDriver.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\SeleniumTests\obj\Debug\SeleniumTests.csprojResolveAssemblyReference.cache
+F:\svn\Practice3\Icenet.Service.Logging.UI\SeleniumTests\obj\Debug\SeleniumTests.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\SeleniumTests\obj\Debug\SeleniumTests.pdb

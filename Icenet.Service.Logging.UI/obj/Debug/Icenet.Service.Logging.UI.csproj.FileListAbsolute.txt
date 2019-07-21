@@ -1,0 +1,148 @@
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\csc.exe
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\vbc.exe
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Icenet.Service.Logging.UI.dll.config
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Icenet.Service.Logging.UI.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Icenet.Service.Logging.UI.pdb
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Antlr3.Runtime.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\EntityFramework.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Newtonsoft.Json.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Owin.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Helpers.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Mvc.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Optimization.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Razor.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.WebPages.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Telerik.Web.Mvc.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\WebGrease.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Helpers.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Mvc.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Optimization.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Razor.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.WebPages.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Antlr3.Runtime.pdb
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Newtonsoft.Json.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\EntityFramework.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\obj\Debug\Icenet.Service.Logging.UI.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\obj\Debug\Icenet.Service.Logging.UI.pdb
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\NLog.dll
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\NLog.xml
+C:\Users\mdad\Documents\Visual Studio 2015\Projects\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\obj\Debug\Icenet.Service.Logging.UI.csprojResolveAssemblyReference.cache
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\csc.exe
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\System.Collections.Immutable.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\vbc.exe
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\VBCSCompiler.exe
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\roslyn\VBCSCompiler.exe.config
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Icenet.Service.Logging.UI.dll.config
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Icenet.Service.Logging.UI.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Icenet.Service.Logging.UI.pdb
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Antlr3.Runtime.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\EntityFramework.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\EntityFramework.SqlServer.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Facebook.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Google.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Twitter.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Web.Infrastructure.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Newtonsoft.Json.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\NLog.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Owin.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Helpers.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Mvc.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Optimization.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Razor.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.WebPages.Deployment.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.WebPages.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.WebPages.Razor.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Telerik.Web.Mvc.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\WebGrease.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\NLog.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Helpers.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Mvc.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Optimization.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.Razor.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.WebPages.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.WebPages.Deployment.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\System.Web.WebPages.Razor.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Antlr3.Runtime.pdb
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Newtonsoft.Json.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\EntityFramework.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\EntityFramework.SqlServer.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Facebook.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Google.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.Twitter.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\obj\Debug\Icenet.Service.Logging.UI.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\obj\Debug\Icenet.Service.Logging.UI.pdb
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\PagedList.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\PagedList.Mvc.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\PagedList.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\bin\PagedList.Mvc.xml
+F:\svn\Practice3\Icenet.Service.Logging.UI\Icenet.Service.Logging.UI\obj\Debug\Icenet.Service.Logging.UI.csprojResolveAssemblyReference.cache

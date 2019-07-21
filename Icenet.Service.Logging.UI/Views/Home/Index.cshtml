@@ -1,0 +1,98 @@
+﻿@model Icenet.Service.Logging.UI.Models.LogViewModel
+@using Telerik.Web.Mvc.UI;
+@using Icenet.Service.Logging.UI.Models;
+
+@{
+    ViewBag.Title = "Log View";
+}
+
+<div class="col-md-4">
+
+    @using (Ajax.BeginForm("GetFilteredLogItems", new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "LogItemGridContainer" }))
+    {
+        <div class="form-group">
+            <h2> Log View </h2>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.Filter.LogCategory)
+            @Html.DropDownListFor(x => x.Filter.LogCategory, new SelectList(Model.LogCategories), new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label for="SearchText"> Search text </label>
+            @Html.TextBoxFor(x => x.Filter.SearchText, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label for="Datepicker"> Click to show datepicker </label>
+            @Html.TextBoxFor(x => x.Filter.DateFrom, new { @class = "form-control" })
+            <script type="text/javascript">
+                // When the document is ready
+                $(document).ready(function () {
+
+                    $('#Filter_DateFrom').datepicker({
+                        autoclose: true,
+                        format: "yyyy-mm-dd"
+                    });
+                });
+            </script>
+        </div>
+
+
+        <script>
+            $(document).ready(function () {
+                $('#resetButton').click(function () {
+                    $(this).button("loading").delay(500).queue(function () {
+                        $(this).button("reset");
+                        $(this).dequeue();
+                    });
+
+                    jQuery('#dataTable').trigger('reloadGrid');
+                    $('#Filter_LogCategory').prop('selectedIndex', 0);
+                    //  $('#LogItemGridContainer div.t-grid-content').remove();
+                    $('#Filter_SearchText').val("");
+                    $('#Filter_DateFrom').datepicker('setDate', null);
+                    $('.btn-primary').click();
+                });
+            });
+        </script>
+
+        <div class="form-group">
+            <button class="btn btn-primary" id="filterButton">Filter</button>
+            <button type="button" class="btn btn-default" id="resetButton">Reset Button</button>
+        </div>
+    }
+</div>
+
+
+<div id="LogItemGridContainer" class="col-md-8">
+    @{
+        Html.RenderAction("GetAllLogItems");
+    }
+</div>
+
+@Html.Raw(HttpUtility.HtmlDecode((Html.ValidationSummary(false, "", new { @class = "exception" })).ToHtmlString()))
+
+<script>
+
+    var dropdown = document.getElementsByClassName("dropdown-btn");
+    var i;
+
+    for (i = 0; i < dropdown.length; i++) {
+        dropdown[i].addEventListener("click", function () {
+            this.classList.toggle("active");
+            var dropdownContent = this.nextElementSibling;
+            if (dropdownContent.style.display === "block") {
+                dropdownContent.style.display = "none";
+            } else {
+                dropdownContent.style.display = "block";
+            }
+        });
+    }
+</script>
+
+
+@(Html.Telerik().StyleSheetRegistrar().DefaultGroup(group => group.Add("telerik.common.css").Add("telerik.windows7.css").Combined(true)))
+@(Html.Telerik().StyleSheetRegistrar())
+

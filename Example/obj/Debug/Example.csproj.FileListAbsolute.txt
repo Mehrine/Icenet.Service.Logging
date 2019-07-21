@@ -1,0 +1,5 @@
+F:\svn\Practice3\Icenet.Service.Logging.UI\Example\bin\Debug\Example.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Example\bin\Debug\Example.pdb
+F:\svn\Practice3\Icenet.Service.Logging.UI\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+F:\svn\Practice3\Icenet.Service.Logging.UI\Example\obj\Debug\Example.dll
+F:\svn\Practice3\Icenet.Service.Logging.UI\Example\obj\Debug\Example.pdb

@@ -1,0 +1,125 @@
+﻿@model Icenet.Service.Logging.UI.Models.LogViewModel
+
+@{
+    if (Model.ErrorMessage == null)
+    {
+        <table id="example" class="table table-striped table-bordered" style="width:100%">
+            
+            <thead>
+            <tr>
+                <th> Title </th>
+                <th> LogCategory </th>
+                <th> RaisedDateTime </th>
+                <th> ProcessDateTime </th>
+                @*<th> SourceMachine </th>
+                <th> SourceProcess </th>
+                <th> Context </th>*@
+                @*<th>Title</th>*@
+                @*<th>LogCategory</th>*@
+                <th>EventId </th>
+                @*<th>Detail</th>
+                <th>Log Level</th>
+                <th>Time Stamp</th>
+                <th>Actions</th>*@
+            </tr>
+            </thead>
+            <tbody>
+          
+                @foreach (var item in Model.LogItems)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TitleSummary)<br/>
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.LogCategory)<br/>
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.RaisedDateTime)<br/>
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProcessDateTime)<br/>
+                        </td>
+                        @*<td>
+                            @Html.DisplayFor(modelItem => item.Title)<br/>
+                        </td>
+                      
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EventId)<br/>
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Detail)<br/>
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.LogLevel)<br/>
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TimeStamp)<br/>
+                        </td>*@
+                        <td>
+                            <a href="#" class="view-log-item" data-log-id="@item.Id">View Details</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+    else
+    {
+        var myMessage = Model.ErrorMessage;
+        <p>Error message: @myMessage </p>
+    }
+}
+
+<script>
+    $(document).ready(function () {
+        $('#example').DataTable();
+
+        $(".view-log-item").click(function() {
+
+            var detail = $("#log-item-detail-modal");
+            var body = $("#log-item-detail-body");
+            var logId = $(this).data("log-id");
+            var logDetailUrl = "@Url.Action("LogDetail")";
+
+            $.ajax({
+                type: "GET",
+                url: logDetailUrl + "?logId=" + logId,
+                success: function (data) {
+                    body.html(data);
+                    detail.modal('show');
+                },
+                error: function (error) {
+                    console.log("An error occurred while getting the log item detail", error);
+                }
+            });
+
+        });
+    });
+</script>
+
+
+<style>
+    .table {
+        display: table;
+        height: 100%;
+    }
+    .table-cell {
+        display: table-cell;
+        vertical-align: middle;
+    }
+</style>
+
+<div id="log-item-detail-modal" class="modal fade" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div id="log-item-detail-body" class="modal-content">
+        </div>
+    </div>
+</div>
+
+
+@*//google bootstrap and align the pop up window in the centre of the page*@
+
+
+
